@@ -1,0 +1,12 @@
+name: DJOKart
+main: nl.sverben.DJOKart
+version: "1.0"
+api-version: "1.17"
+
+commands:
+   kartjoin:
+     description: Join DJO Kart
+     usage: /kartjoin
+   kartdebug:
+     description: Disable boat exit event handlers
+     usage: /kartdebug
